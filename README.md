@@ -23,6 +23,9 @@ To build a real-time streaming application that:
 3. **Topic Configuration**: A Kafka topic named `product_updates` with 10 partitions ensures scalability and proper load distribution.
 4. **Consumer Group**: A group of 5 Python Kafka consumers deserializes, transforms, and writes data into JSON files.
 
+   
+![image](https://github.com/user-attachments/assets/397afdcf-8591-41b9-9922-c37d3dfe7c16)
+
 ---
 
 ### **Implementation Steps**
