@@ -14,7 +14,7 @@ To build a real-time streaming application that:
 5. Writes transformed data into JSON files for downstream analytics.
 
 ---
-
+ 
 ### **Solution Overview**
 
 #### **System Architecture**
